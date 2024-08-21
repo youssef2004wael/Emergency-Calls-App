@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">الطواريء</string>
+
+    <string name="title">هل تريد الخروج من البرنامج بالفعل ؟</string>
+    <string name="message">فكر مرة اخري </string>
+    <string name="posButton">نعم اريد الخروج</string>
+    <string name="NegButton">لا اريد البقاء هنا </string>
+    <string name="police">بوليس النجدة </string>
+    <string name="ambulance">الاسعاف</string>
+    <string name="fire">المطافي</string>
+    <string name="care">نجدة الاطفال</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Emergencies</string>
+
+    <string name="title">Do U Really Wanna Exit ?</string>
+    <string name="message">Think Again  </string>
+    <string name="posButton">Yes I want</string>
+    <string name="NegButton">No ,  keep me here </string>
+    <string name="police">Police Office</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="fire">Fire Truck</string>
+    <string name="care">Children Care</string>
+
+</resources>
